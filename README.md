@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Amorim
 
 - 🔭 Atualmente no Exército, enquanto termino a faculdade de ciências da computação
-- 🌱 Estudando Typescript e implementando no meu novo projeto
+- 🌱 Focando em realizar diversos projetos com ReactJs, Typescript
 - 📫 Contate-me no email: gabrielp.amorim@live.com
 - 😄 Pronouns: Ele/Dele
 
