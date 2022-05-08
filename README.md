@@ -30,4 +30,4 @@
  
  ##
  
- <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="gabrieldev21" /> 
+ <img src="https://komarev.com/ghpvc/?username=gabrieldev21&color=green" alt="gabrieldev21" /> 
