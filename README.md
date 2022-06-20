@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Amorim
 
-- 🔭 Último período no bacharel de ciências da computação 🚀
+- 🔭 Bacharel Ciências da Computação 🚀
 - 🌱 Foco em realizações de projetos com ReactJs, sempre utilizando Typescript para trazer oportunidade de escalabilidade
 - 📫 Contate-me no email: gabrielp.amorim@live.com
 - 😄 Pronouns: Ele/Dele
