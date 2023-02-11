@@ -1,9 +1,8 @@
-### Olá! Eu sou o Gabriel Amorim
+### Hey! I'm Gabriel Amorim
 
-- 🔭 Bacharel Ciências da Computação 🚀
-- 🌱 Foco em realizações de projetos com ReactJs, sempre utilizando Typescript para trazer oportunidade de escalabilidade
-- 📫 Contate-me no email: gabrielp.amorim@live.com
-- 😄 Pronouns: Ele/Dele
+- 🔭 Bachelor of Computer Science 🚀
+- 🌱 Focus on project realizations with NextJs, always Typescript.
+- 📫 Contact: gabrielp.amorim@live.com
 
  <div>
   <a href="https://github.com/gabrieldev21">
