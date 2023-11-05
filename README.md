@@ -1,7 +1,7 @@
 ### Hey! I'm Gabriel Amorim
 
 - 🔭 Bachelor of Computer Science 🚀
-- 🌱 Focus on project realizations with NextJs, always Typescript.
+- 🌱 Focus on project realizations with NextJs and Flutter.
 - 📫 Contact: gabrielp.amorim@live.com
 
  <div>
