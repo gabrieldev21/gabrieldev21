@@ -1,7 +1,7 @@
 ### Hey! I'm Gabriel Amorim
 
-- 🔭 Bachelor of Computer Science 🚀
-- 🌱 Focus on project realizations with NextJs and Flutter.
+- 🔭 Bachelor of Computer Science / Master Business Application(MBA) in Software Engineer.
+- 🌱 Focus on Software Engineer.
 - 📫 Contact: gabrielp.amorim@live.com
 
  <div>
