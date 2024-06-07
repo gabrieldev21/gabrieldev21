@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="flutter" width="40" height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/> 
+  <img align="center" alt="Gabriel-Dart" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/> 
  </div>
   
  ##
